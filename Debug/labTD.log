@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\tomuta\Documents\Documents\Facultate\AN IV\TD\tema\labTD\main.c(12,6): warning C4101: 'i': unreferenced local variable
+  my_parse.c
+  Generating Code...
+C:\Users\tomuta\Documents\Documents\Facultate\AN IV\TD\tema\labTD\main.c(11,7): warning C4101: 'buff': unreferenced local variable
+C:\Users\tomuta\Documents\Documents\Facultate\AN IV\TD\tema\labTD\my_parse.c(299): warning C4715: 'parse': not all control paths return a value
+  labTD.vcxproj -> C:\Users\tomuta\Documents\Documents\Facultate\AN IV\TD\tema\labTD\Debug\labTD.exe
